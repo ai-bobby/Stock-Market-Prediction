@@ -38,7 +38,7 @@ After activating the virtual environment, you can install the project’s requir
 pip install -r requirements.txt
 ```
 
-![Logo](photos\bobby-log.png)
+![Logo]([photos\bobby-log.png](https://www.dropbox.com/scl/fi/rgku93xk3lqyezqbn6ftd/bobby-log.png?rlkey=l9atciextssgnsxgw5x5eev9j&st=9epb2aie&dl=0))
 
 
 ## Tech Stack
