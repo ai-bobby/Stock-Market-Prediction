@@ -38,48 +38,7 @@ After activating the virtual environment, you can install the project’s requir
 pip install -r requirements.txt
 ```
 
-![Logo]([photos\bobby-log.png](https://www.dropbox.com/scl/fi/rgku93xk3lqyezqbn6ftd/bobby-log.png?rlkey=l9atciextssgnsxgw5x5eev9j&st=9epb2aie&dl=0))
-
-
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-
-
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
-```
-
-
-## Usage/Examples
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
-
-
-## Used By
-
-This project is used by the following companies:
-
-- Company 1
-- Company 2
-
-
-## Support
-
-For support, email fake@fake.com or join our Slack channel.
-
+![Logo]([https://www.dropbox.com/scl/fi/rgku93xk3lqyezqbn6ftd/bobby-log.png?rlkey=l9atciextssgnsxgw5x5eev9j&st=wk5c1u8x&dl=0])
 
 ## 🛠 Skills
 - `numpy`
@@ -106,7 +65,7 @@ For support, email fake@fake.com or join our Slack channel.
 ⚡️ Fun fact...
 
 
-# Hi, I'm Katherine! 👋
+# Hi, I'm Bobby! 👋
 
 
 ## 🚀 About Me
